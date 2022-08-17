@@ -4,16 +4,16 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 822-5228-5143'],
-  ['+62 822-5228-5143'],
-  ['+62 822-5228-5143'],
-  ['+62 822-5228-5143'],
-  ['+62 822-5228-5143'],
-  ['+62 822-5228-5143', 'ᴍ.ʀʏᴀɴ', true],
-  ['+62 822-5228-5143', 'ᴍ.ʀʏᴀɴ', true],
-  ['6282350496532', 'Bot', true],
-  ['+62 822-5228-5143', 'ᴍ.ʀʏᴀɴ', true],
-  ['+62 822-5228-5143', 'ᴍ.ʀʏᴀɴ', true],
+  ['+62 813-4915-2362'],
+  ['+62 813-4915-2362'],
+  ['+62 813-4915-2362'],
+  ['+62 813-4915-2362'],
+  ['+62 813-4915-2362'],
+  ['+62 813-4915-2362', 'IRGI STORE', true],
+  ['+62 813-4915-2362', 'IRGI STORE', true],
+  ['6281349152362', 'Bot', true],
+  ['+62 813-4915-2362', 'IRGI STORE', true],
+  ['+62 813-4915-2362', 'IRGI STORE', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -42,11 +42,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 𝒀𝒂𝒏𝒏 𝑴𝒅 」' //Main Watermark
+global.wm = '                「 IRGI BOT 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ 𝒀𝒂𝒏𝒏 𝑩𝒐𝒕𝒛'
+global.wm3 = '⫹⫺ IRGI BOT'
 
 global.botdate = `⫹⫺ 𝑫𝒂𝒕𝒆 :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -55,7 +55,7 @@ global.bottime = `𝑻𝑰𝑴𝑬 : ${moment.tz('Asia/Jakarta').format('HH:mm:s
 global.titlebot = `⫹⫺ 𝑻𝑰𝑴𝑬 𝑺𝑬𝑹𝑽𝑬𝑹 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 𝒀𝒂𝒏𝒏 𝑩𝒐𝒕⁩ 」'
+global.author = '                「 IRGI 𝑩𝒐𝒕⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -71,7 +71,7 @@ global.flaaa = [
   'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
   'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
  ]
-global.sgc = 'https://chat.whatsapp.com/Eg4Rhkq0NBtBMWyhk1IOnb'
+global.sgc = 'https://chat.whatsapp.com/E9APcVYLflFH8DaTc37mbh'
 global.sig = 'https://instagram.com/'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
@@ -79,7 +79,7 @@ global.urlnya = "https://www.instagram.com/"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 822-5228-5143'
+global.phn = '+62 813-4915-2362'
 //Ini cuma simpenan owner kanna kok :v
 global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://telegra.ph/file/05c1b22ee83bcd7723b4d.jpg','https://telegra.ph/file/1d886f66a44871205335f.jpg','https://telegra.ph/file/54d19a9094dc509370bf9.jpg','https://telegra.ph/file/e649475bcde78a9977ee5.jpg','https://telegra.ph/file/32ba20b6139b129c559c8.jpg','https://telegra.ph/file/948434cda49e4af5d9f11.jpg','https://telegra.ph/file/6f353c68533283fe79871.jpg','https://telegra.ph/file/de268ca9b01101acf2b8a.jpg','https://telegra.ph/file/fc6c5b2ae9a20c4256e7f.jpg', 'https://telegra.ph/file/efb70bb0988640f841742.jpg', 'https://telegra.ph/file/77d03fff530a2bcff3bf7.jpg','https://telegra.ph/file/6e4623464a659dd8d902b.jpg','https://telegra.ph/file/685aa39f0cb0f2c4fd85b.jpg','https://telegra.ph/file/10454b9ad693e1eefea58.jpg','https://telegra.ph/file/7de8ce5c290c3d8be0856.jpg','https://telegra.ph/file/8d7c4eadb7a4722747074.jpg','https://telegra.ph/file/ccc5f8eaac0f30919ef6c.jpg','https://telegra.ph/file/95f4b43439d7888f15ea5.jpg','https://telegra.ph/file/9c2a750db555bd2fad1f3.jpg', 'https://telegra.ph/file/efc5f7e637744fd6bfec2.jpg','https://telegra.ph/file/3a5231aade245665633bd.jpg','https://telegra.ph/file/2ecfc76feb26ec1eab99b.jpg','https://telegra.ph/file/dabb70983b4e833d98344.jpg','https://telegra.ph/file/75193a893e38fc580afe6.jpg','https://telegra.ph/file/217aa0f4ec76273808aa4.jpg','https://telegra.ph/file/8a35d3446b97ae22c7b23.jpg','https://telegra.ph/file/092df720701575a7ceaaa.jpg','https://telegra.ph/file/a65184a676cd648de34c3.jpg','https://telegra.ph/file/2f5b23c84765b1c6c1944.jpg','https://telegra.ph/file/b6782b595b7c86e49ad7e.jpg',
 'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
@@ -92,10 +92,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://telegra.ph/file/ae610571b62b5ab876e9c.jpg', 'https://telegra.ph/file/cc8255d5b989eef587af2.jpg','https://telegra.ph/file/30d2e7375996abd9cfee3.jpg']
 /*============== NOMOR ==============*/
-global.nomorbot = '6282350496532'
-global.nomorown = '6282252285143'
-global.namebot = '𝒀𝒂𝒏𝒏 𝑩𝒐𝒕'
-global.nameown = '𝑹𝒚𝒂𝒏𝒏-'
+global.nomorbot = '628219716-0513'
+global.nomorown = '6281349152362'
+global.namebot = 'Irgi Botz'
+global.nameown = 'Irgi-'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
